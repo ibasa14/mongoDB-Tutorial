@@ -29,5 +29,8 @@ Then, use either mongo or mongosh to log in:
 mongo(sh) --host hostname (if not runing on local) -u "mongoadmin" -p "secret" --authenticationDatabase admin
 ```
 
-## hostname parameter
+## Hostname parameter configuration depending on the server
 Please, follow same logic as per postgres configuration: https://github.com/ibasa14/postgreSQL-Tutorial
+
+## GUI
+The mongoDB supported GUI tool is: Compass MongoDB
